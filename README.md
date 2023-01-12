@@ -10,8 +10,6 @@ FinHub technical support AppInfo
 
 <img width="650" alt="WeChat5e3b34f0aaae88c113e214f87e4a1553" src="https://user-images.githubusercontent.com/36095568/211971484-2cdb4d61-5b09-4367-99a9-c378ecb9b581.png">
 
-Online financial intelligence training, promote financial intelligence, mini MBA, mini business school, business training, business promotion, skill share, knowledge share, business course, business consulting, online earning, study community, online marketing training, free course, free learning, freelancer training, passive income, part time earning
-
 Fin hub is a financial intelligence training &amp;consulting platform.
 We provide a lot of courses for you to improve the ability of financial intelligence.In addition,we have many professional consultant and advisor for our clients to solve their problems,help them growth fast.
 
